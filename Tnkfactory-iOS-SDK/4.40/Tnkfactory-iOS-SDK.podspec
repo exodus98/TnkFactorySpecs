@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.license      = { :type => 'Commercial', :file => 'LICENSE.md' }
   s.author       = { "Exodus Ent" => "dev@myloveidol.com" }
   s.requires_arc = true
-  s.source       = { :http => "https://github.com/tnkfactory/ios-sdk-rwd/blob/master/sdk/tnkrwd_sdk_ios_v4.41.zip" }
+  s.source       = { :http => "https://github.com/tnkfactory/ios-sdk-rwd/raw/master/sdk/tnkrwd_sdk_ios_v4.40.zip" }
 
   s.ios.deployment_target = '13.0'
   s.tvos.deployment_target = '13.0' 
