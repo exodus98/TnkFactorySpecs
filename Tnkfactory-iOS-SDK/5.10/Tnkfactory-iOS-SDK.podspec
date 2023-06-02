@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.version      = "5.10"
   s.summary      = "TNK Factory SDK for iOS"
   s.homepage     = "https://github.com/tnkfactory/ios-sdk-rwd2"
-  s.license      = { :type => 'Commercial', :file => 'LICENSE.md' }
+  s.license      = { :type => 'Commercial' }
   s.author       = { "Exodus Ent" => "dev@myloveidol.com" }
   s.requires_arc = true
   s.source       = { :http => "https://github.com/tnkfactory/ios-sdk-rwd2/raw/main/sdk/TnkRwdSdk2.v5.10.zip" }
